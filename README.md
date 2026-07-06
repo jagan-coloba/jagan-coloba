@@ -86,6 +86,6 @@
 
 ## 💡 Quote
 
-> "Success comes from consistent learning and continuous improvement."
+> "> "Every expert was once a beginner who never stopped learning."."
 
 ⭐ Thank you for visiting my GitHub profile! how to add my git orifile and add my linked in profile
