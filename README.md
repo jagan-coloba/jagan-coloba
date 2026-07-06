@@ -14,7 +14,7 @@
 - 💻 Passionate about **Python** and **Full Stack Development**
 - 🌱 Currently learning **HTML, CSS, JavaScript, MySQL, Git & GitHub**
 - 🎯 Goal: Become a Software Engineer and contribute to Open Source
-- 📫 Email: **jaganveerla876@gmail.com**
+- 📫 Email: **devisrinu976@gmail.com**
 
 ---
 
@@ -78,7 +78,7 @@
 
 ## 🤝 Connect With Me
 
-- 📧 Email: **jaganveerla876@gmail.com**
+- 📧 Email: **devisrinu976@gmail.com**
 - 💼 LinkedIn: *(linkedin.com/in/veerla-jagan-kumar)*
 - 💻 GitHub: **https://github.com/jagan-coloba**
 
