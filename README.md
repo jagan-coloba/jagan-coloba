@@ -79,7 +79,7 @@
 ## 🤝 Connect With Me
 
 - 📧 Email: **devisrinu976@gmail.com**
-- 💼 LinkedIn: *(linkedin.com/in/veerla-jagan-kumar)*
+- 💼 LinkedIn: **(linkedin.com/in/veerla-jagan-kumar)**
 - 💻 GitHub: **https://github.com/jagan-coloba**
 
 ---
